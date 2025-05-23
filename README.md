@@ -25,5 +25,5 @@ Welcome to my personal **portfolio website**, thoughtfully crafted to present my
 
 ---
 
-## 📁 Folder Structure
+
 
